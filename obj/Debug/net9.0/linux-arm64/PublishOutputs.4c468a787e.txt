@@ -1,0 +1,7 @@
+/Users/giselefonseca/Documents/Desafio ASP.NET Minimals APIs/minimal-api/bin/Debug/net9.0/linux-arm64/publish/minimal-api
+/Users/giselefonseca/Documents/Desafio ASP.NET Minimals APIs/minimal-api/bin/Debug/net9.0/linux-arm64/publish/appsettings.Development.json
+/Users/giselefonseca/Documents/Desafio ASP.NET Minimals APIs/minimal-api/bin/Debug/net9.0/linux-arm64/publish/appsettings.json
+/Users/giselefonseca/Documents/Desafio ASP.NET Minimals APIs/minimal-api/bin/Debug/net9.0/linux-arm64/publish/minimal-api.dll
+/Users/giselefonseca/Documents/Desafio ASP.NET Minimals APIs/minimal-api/bin/Debug/net9.0/linux-arm64/publish/minimal-api.deps.json
+/Users/giselefonseca/Documents/Desafio ASP.NET Minimals APIs/minimal-api/bin/Debug/net9.0/linux-arm64/publish/minimal-api.runtimeconfig.json
+/Users/giselefonseca/Documents/Desafio ASP.NET Minimals APIs/minimal-api/bin/Debug/net9.0/linux-arm64/publish/minimal-api.pdb
