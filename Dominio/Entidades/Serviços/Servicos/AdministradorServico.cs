@@ -1,5 +1,5 @@
 using MinimalApi.Dominio.Entidades;
-using MinimalApi.DTOs;
+using MinimalApi.Dominio.DTOs;
 using MinimalApi.Infraestrutura.Database;
 using MinimalApi.Dominio.Interfaces;
 using Microsoft.EntityFrameworkCore;
@@ -45,4 +45,10 @@ public class AdministradorServico : IAdministradorServico
 
         return query.ToList();
     }
+    public void Apagar(Administrador administrador)
+{
+    _context.Administradores.Remove(administrador);
+    _context.SaveChanges();
+}
+
 }
